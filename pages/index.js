@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-black text-white flex flex-col items-center justify-center p-4">
       <Head>
-        <title>RAZE Empire</title>
+        <title>RaZe </title>
       </Head>
       <motion.h1 
         className="text-5xl font-extrabold mb-8 text-center"
